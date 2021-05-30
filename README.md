@@ -1,6 +1,7 @@
 # expense_planner
 
 A new Flutter project.
+All files minus build folder
 
 ## Getting Started
 
